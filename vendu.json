@@ -1,0 +1,1 @@
+{"voitures": [{"type_vehicule": "voiture", "chassis": "123", "marque": "Toyota", "modele": "Corolla", "couleur": "bleu", "portes": 5, "kilometrage": 12000, "carburant": "Diesel", "prix": 120000, "est_a_louer": true, "prix_apres_promotion": 108000.0}], "motos": []}
